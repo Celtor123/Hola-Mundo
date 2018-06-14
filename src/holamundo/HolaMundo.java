@@ -9,6 +9,7 @@ public void imprimir(){
     public static void main(String[] args) {
        HolaMundo a= new HolaMundo();
        a.imprimir();
+       System.out.println("Hola Mundo");
     }
     
 }
